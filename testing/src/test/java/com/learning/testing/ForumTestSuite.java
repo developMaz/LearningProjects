@@ -1,4 +1,4 @@
-package com.learning.testing.forum;
+package com.learning.testing;
 
 import com.learning.testing.calculator.Calculator;
 import com.learning.testing.user.SimpleUser;
