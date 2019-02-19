@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.testing.shape.ShapeTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-14T19:36:45" hostname="devMaz-Laptop" time="0.005">
+  <properties/>
+  <testcase name="testGetShape" classname="com.learning.testing.shape.ShapeTestSuite" time="0.002"/>
+  <testcase name="testAddingShape" classname="com.learning.testing.shape.ShapeTestSuite" time="0.002"/>
+  <testcase name="testRemovingShape" classname="com.learning.testing.shape.ShapeTestSuite" time="0.001"/>
+  <system-out><![CDATA[Starting test suite...
+Starting test number 1
+End of test
+Starting test number 2
+End of test
+Starting test number 3
+End of test
+End of all tests. Go home!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

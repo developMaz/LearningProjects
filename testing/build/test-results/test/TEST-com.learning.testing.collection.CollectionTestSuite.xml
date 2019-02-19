@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.testing.collection.CollectionTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-14T19:36:45" hostname="devMaz-Laptop" time="0.005">
+  <properties/>
+  <testcase name="testOddNumbersExterminatorEmptyList" classname="com.learning.testing.collection.CollectionTestSuite" time="0.004"/>
+  <testcase name="testOddNumbersExterminatorNormalList" classname="com.learning.testing.collection.CollectionTestSuite" time="0.001"/>
+  <system-out><![CDATA[Start Test Suite
+Start Test Case
+Empty List test is correct
+End Test Case
+Start Test Case
+Not empty list test is correct
+End Test Case
+Finish Test Suite
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

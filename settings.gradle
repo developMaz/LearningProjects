@@ -1,2 +1,4 @@
 include 'testing'
+include 'stream'
+include 'spring-intro'
 

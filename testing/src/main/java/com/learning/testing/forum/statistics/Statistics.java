@@ -1,4 +1,10 @@
 package com.learning.testing.forum.statistics;
 
-public class Statistics {
+import java.util.List;
+
+public interface Statistics {
+    List<String> userNames();
+    int postCount();
+    int commentsCout();
+
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.testing.ForumTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-14T19:36:45" hostname="devMaz-Laptop" time="0.003">
+  <properties/>
+  <testcase name="testCaseRealName" classname="com.learning.testing.ForumTestSuite" time="0.002"/>
+  <testcase name="testCaseUsername" classname="com.learning.testing.ForumTestSuite" time="0.0"/>
+  <system-out><![CDATA[Test Suite: start
+Test case: begin
+Test case: end
+Test case: begin
+Test case: end
+Test Suite: finish
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
