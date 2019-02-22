@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.jdbc.DbManagerTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-22T23:29:28" hostname="devMaz-Laptop" time="0.268">
+  <properties/>
+  <testcase name="testConnection" classname="com.learning.jdbc.DbManagerTestSuite" time="0.24"/>
+  <testcase name="testSelectUsers" classname="com.learning.jdbc.DbManagerTestSuite" time="0.025"/>
+  <testcase name="testSelectUserAndPosts" classname="com.learning.jdbc.DbManagerTestSuite" time="0.002"/>
+  <system-out><![CDATA[1, Jon, Snow
+2, Tyrion, Lannister
+3, Danerys, Targaryan
+4, Cersei, Lannister
+5, Stanis, Baratheon
+Jon Snow, has 2 posts: 
+
+Tyrion Lannister, has 2 posts: 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

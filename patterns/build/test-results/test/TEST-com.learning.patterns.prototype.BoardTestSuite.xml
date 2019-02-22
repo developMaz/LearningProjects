@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.patterns.prototype.BoardTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-22T23:34:44" hostname="devMaz-Laptop" time="0.019">
+  <properties/>
+  <testcase name="testToString" classname="com.learning.patterns.prototype.BoardTestSuite" time="0.019"/>
+  <system-out><![CDATA[Board [Project number 1]
+    List {Completed]
+        Task [Done Tasks number 1}
+        Task [Done Tasks number 2}
+        Task [Done Tasks number 3}
+        Task [Done Tasks number 4}
+        Task [Done Tasks number 5}
+        Task [Done Tasks number 6}
+        Task [Done Tasks number 7}
+        Task [Done Tasks number 8}
+        Task [Done Tasks number 9}
+        Task [Done Tasks number 10}
+    List {To Do Tasks]
+        Task [To Do Task number 1}
+        Task [To Do Task number 2}
+        Task [To Do Task number 3}
+        Task [To Do Task number 4}
+        Task [To Do Task number 5}
+        Task [To Do Task number 6}
+        Task [To Do Task number 7}
+        Task [To Do Task number 8}
+        Task [To Do Task number 9}
+        Task [To Do Task number 10}
+    List {In progress]
+        Task [In Progress Tasks number 1}
+        Task [In Progress Tasks number 2}
+        Task [In Progress Tasks number 3}
+        Task [In Progress Tasks number 4}
+        Task [In Progress Tasks number 5}
+        Task [In Progress Tasks number 6}
+        Task [In Progress Tasks number 7}
+        Task [In Progress Tasks number 8}
+        Task [In Progress Tasks number 9}
+        Task [In Progress Tasks number 10}
+
+Board [Project number 1]
+    List {Completed]
+        Task [Done Tasks number 1}
+        Task [Done Tasks number 2}
+        Task [Done Tasks number 3}
+        Task [Done Tasks number 4}
+        Task [Done Tasks number 5}
+        Task [Done Tasks number 6}
+        Task [Done Tasks number 7}
+        Task [Done Tasks number 8}
+        Task [Done Tasks number 9}
+        Task [Done Tasks number 10}
+    List {To Do Tasks]
+        Task [To Do Task number 1}
+        Task [To Do Task number 2}
+        Task [To Do Task number 3}
+        Task [To Do Task number 4}
+        Task [To Do Task number 5}
+        Task [To Do Task number 6}
+        Task [To Do Task number 7}
+        Task [To Do Task number 8}
+        Task [To Do Task number 9}
+        Task [To Do Task number 10}
+    List {In progress]
+        Task [In Progress Tasks number 1}
+        Task [In Progress Tasks number 2}
+        Task [In Progress Tasks number 3}
+        Task [In Progress Tasks number 4}
+        Task [In Progress Tasks number 5}
+        Task [In Progress Tasks number 6}
+        Task [In Progress Tasks number 7}
+        Task [In Progress Tasks number 8}
+        Task [In Progress Tasks number 9}
+        Task [In Progress Tasks number 10}
+
+Board [Project number 2]
+    List {Completed]
+        Task [Done Tasks number 1}
+        Task [Done Tasks number 2}
+        Task [Done Tasks number 3}
+        Task [Done Tasks number 4}
+        Task [Done Tasks number 5}
+        Task [Done Tasks number 6}
+        Task [Done Tasks number 7}
+        Task [Done Tasks number 8}
+        Task [Done Tasks number 9}
+        Task [Done Tasks number 10}
+    List {To Do Tasks]
+        Task [To Do Task number 1}
+        Task [To Do Task number 2}
+        Task [To Do Task number 3}
+        Task [To Do Task number 4}
+        Task [To Do Task number 5}
+        Task [To Do Task number 6}
+        Task [To Do Task number 7}
+        Task [To Do Task number 8}
+        Task [To Do Task number 9}
+        Task [To Do Task number 10}
+    List {In progress]
+        Task [In Progress Tasks number 1}
+        Task [In Progress Tasks number 2}
+        Task [In Progress Tasks number 3}
+        Task [In Progress Tasks number 4}
+        Task [In Progress Tasks number 5}
+        Task [In Progress Tasks number 6}
+        Task [In Progress Tasks number 7}
+        Task [In Progress Tasks number 8}
+        Task [In Progress Tasks number 9}
+        Task [In Progress Tasks number 10}
+
+Board [Project 3]
+    List {To Do Tasks]
+        Task [To Do Task number 1}
+        Task [To Do Task number 2}
+        Task [To Do Task number 3}
+        Task [To Do Task number 4}
+        Task [To Do Task number 5}
+        Task [To Do Task number 6}
+        Task [To Do Task number 7}
+        Task [To Do Task number 8}
+        Task [To Do Task number 9}
+        Task [To Do Task number 10}
+    List {Completed]
+        Task [Done Tasks number 1}
+        Task [Done Tasks number 2}
+        Task [Done Tasks number 3}
+        Task [Done Tasks number 4}
+        Task [Done Tasks number 5}
+        Task [Done Tasks number 6}
+        Task [Done Tasks number 7}
+        Task [Done Tasks number 8}
+        Task [Done Tasks number 9}
+        Task [Done Tasks number 10}
+    List {In progress]
+        Task [In Progress Tasks number 1}
+        Task [In Progress Tasks number 2}
+        Task [In Progress Tasks number 3}
+        Task [In Progress Tasks number 4}
+        Task [In Progress Tasks number 5}
+        Task [In Progress Tasks number 6}
+        Task [In Progress Tasks number 7}
+        Task [In Progress Tasks number 8}
+        Task [In Progress Tasks number 9}
+        Task [In Progress Tasks number 10}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
